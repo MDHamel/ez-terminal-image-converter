@@ -5,7 +5,7 @@ This script uses the terminal (sorry no GUI) to convert files in a folder to wha
 
 ## Set Up (for Windows)
 This is how I set it up on my device:
-1. Download the program folder somewhere onto your PC.
+1. [Download the program](https://github.com/MDHamel/ez-terminal-image-converter/releases) folder somewhere onto your PC.
    1. Note the file path for the `EzTerminalImageConverter/image-conversion.py` (right-click, 'Copy as Path') 
    2. pip install the requirements:
    `pip install pillow`
@@ -20,7 +20,7 @@ function imgconv{
     python "path/from/step1" $args
 }
 ```
-5. Save your profiles, restart your terminal, and DONE!
+1. Save your profiles, restart your terminal, and DONE!
 
 ## How To Use
 Open your desired directory in your terminal and then call the name of the function. The only required argument is the file extension you want to convert to (png, jpg, ico, webp).
