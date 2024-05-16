@@ -20,7 +20,7 @@ function imgconv{
     python "path/from/step1" $args
 }
 ```
-1. Save your profiles, restart your terminal, and DONE!
+5. Save your profiles, restart your terminal, and DONE!
 
 ## How To Use
 Open your desired directory in your terminal and then call the name of the function. The only required argument is the file extension you want to convert to (png, jpg, ico, webp).
